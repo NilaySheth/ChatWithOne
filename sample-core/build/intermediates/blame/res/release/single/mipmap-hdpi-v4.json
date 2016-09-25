@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Workspace\\ChatWithOne\\sample-core\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Workspace\\ChatWithOne\\sample-core\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Workspace\\ChatWithAll\\sample-core\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Workspace\\ChatWithAll\\sample-core\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
